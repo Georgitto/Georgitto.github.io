@@ -1,0 +1,7 @@
+{
+	"name": "sgdmireair",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Integration runtime #1"
+	}
+}
